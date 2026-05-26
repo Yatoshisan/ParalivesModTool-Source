@@ -108,4 +108,4 @@ README.md               — this file
 
 ## License
 
-Free to use, modify, and redistribute. Credit appreciated but not required.
+Free to use. Credit appreciated but not required.
